@@ -1,0 +1,1 @@
+Implemented key components like Page Object Model and Data-driven testing, I ensure thread-safe execution with Extent Reports and utilize the cucumber BDD framework while automating e-commerce applications.
